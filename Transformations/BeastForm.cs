@@ -10,7 +10,7 @@ namespace GohanFormPack.Transformations
 {
     public class BeastForm : Transformation
     {
-        public override AuraData AuraData() => new AuraData("GohanFormPack/Assets/BaseAura", 4, BlendState.AlphaBlend, new Color(145, 50, 255)); //145,50,255
+        public override AuraData AuraData() => new AuraData("DBZModPort/Effects/Animations/Aura/BaseAura", 4, BlendState.Additive, new Color(145, 50, 255)); //145,50,255
 
         public override bool CanTransform(Player player)
         {
