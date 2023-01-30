@@ -1,0 +1,4 @@
+modReferences = DBZGoatLib, DBZMODPORT
+displayName = Ultimate & Beast Forms
+author = Shifter
+version = 1.00

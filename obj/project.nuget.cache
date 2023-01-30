@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmyjLlECPomznWv+FTkL0lNhffPRumEk1oz4awd7KgYMHTLKSf9x2mfhXCu50g4/FDT9+OTPgXFRnmVeQOSGow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Big Cheese\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\GohanFormPack\\GohanFormPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Big Cheese\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

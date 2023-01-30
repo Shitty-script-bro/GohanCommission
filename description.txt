@@ -1,0 +1,3 @@
+A commission mod made for Bumpy#4312, adding Ultimate and Beast forms.
+Made by shifter, using GoatLib for transformations.
+Source code is available for extraction and on my github.
